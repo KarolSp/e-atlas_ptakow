@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
     <head>
-    
-        <meta charset="UTF-8"
+   
               
               <title>E-atlas ptaków</title>
               <link href="https://fonts.googleapis.com/css?family=Roboto:400,900&subset=latin-ext" rel="stylesheet">
