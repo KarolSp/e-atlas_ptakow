@@ -1,0 +1,46 @@
+*{
+    margin: 1000000;
+    padding: 0
+    font-family: Roboto, arial;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: bisque
+}
+
+#wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: cornflowerblue
+}
+
+#zdj {
+    width: 100%; display: block;
+}
+
+
+nav {
+    background-color: green;
+    
+}
+
+a.menu { 
+     display: inline-block;
+     width: 24%;
+     padding: 15px 30px;
+     color: darkturquoise
+     text-decoration: none;
+     text-align: center;
+}
+
+a.menu:hover {
+    font-size: 20px
+    background-color:crimson;    
+}
+
+.active {background-color: crimson;}
+
+footer{
+    margin-top: 100px
+} 
