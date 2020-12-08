@@ -21,7 +21,7 @@ body{
 
 
 nav {
-    background-color: green;
+    background-color: red;
     
 }
 
@@ -44,3 +44,11 @@ a.menu:hover {
 footer{
     margin-top: 100px
 } 
+
+nav{
+    margin-top: 50px
+}
+
+header{
+    margin-top: 40px
+}

@@ -1,0 +1,13 @@
+*{
+    margin: 1000000;
+    padding: 0
+    font-family: Roboto, arial;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: bisque
+}
+#zdj {
+    width: 90%; display: block;
+    
